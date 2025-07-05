@@ -1,0 +1,1 @@
+cat /Users/mac/RiderProjects/ProfessionalFrontendDevelopment/alx-intermediate-frontend/0x00-semantic_html/0-index.html | tee /Users/mac/RiderProjects/ProfessionalFrontendDevelopment/alx-intermediate-frontend/0x00-semantic_html/1-index.html > /dev/null

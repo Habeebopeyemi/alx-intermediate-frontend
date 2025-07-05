@@ -1,1 +1,1 @@
-cat /Users/mac/RiderProjects/ProfessionalFrontendDevelopment/alx-intermediate-frontend/0x00-semantic_html/1-index.html | tee /Users/mac/RiderProjects/ProfessionalFrontendDevelopment/alx-intermediate-frontend/0x00-semantic_html/2-index.html > /dev/null
+cat /Users/mac/RiderProjects/ProfessionalFrontendDevelopment/alx-intermediate-frontend/0x00-semantic_html/2-index.html | tee /Users/mac/RiderProjects/ProfessionalFrontendDevelopment/alx-intermediate-frontend/0x00-semantic_html/3-index.html > /dev/null

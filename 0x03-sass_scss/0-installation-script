@@ -8,4 +8,8 @@ sass --version
 # The command below will watch the input.scss file and compile it to output.css
 # You can run this command in the terminal to see the changes in real-time
 # Make sure you are in the correct directory where the input.scss file is located
-#sass --watch 0x03-sass_scss/src/input.scss:0x03-sass_scss/src/output.css
+sass --watch 0x03-sass_scss/src/input.scss:0x03-sass_scss/src/output.css
+
+# To debug the Sass file and see the output in the terminal
+# The command below will debug the 0-debug_log.scss file and print the output to the
+sass 0-debug_log.scss | head -n 0

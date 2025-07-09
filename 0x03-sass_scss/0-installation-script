@@ -13,3 +13,6 @@ sass --watch 0x03-sass_scss/src/input.scss:0x03-sass_scss/src/output.css
 # To debug the Sass file and see the output in the terminal
 # The command below will debug the 0-debug_log.scss file and print the output to the
 sass 0-debug_log.scss | head -n 0
+
+# To compile the Sass file and see the output in the terminal
+sass 1-color_variable.scss | tail -n +2
